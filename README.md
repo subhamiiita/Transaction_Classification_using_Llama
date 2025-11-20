@@ -7,9 +7,9 @@ This project demonstrates fine-tuning using **QLoRA** on **Llama-3.1-8B** for ca
 
 To fine-tune the model using QLoRA, simply run:
 
-'''bash
+'''
 python llama_fine_tuning.py
-
+'''
 
 ## QLoRA Fine-tuning Architecture
 
