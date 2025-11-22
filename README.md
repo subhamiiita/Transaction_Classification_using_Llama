@@ -2,6 +2,9 @@
 
 This project demonstrates fine-tuning using **QLoRA** on **Llama-3.1-8B** for category classification on a transaction dataset.
 
+## Result
+![Result](result.png)
+
 
 ## 🚀 Running Steps
 
